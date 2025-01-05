@@ -2,18 +2,13 @@
 
 This project is a platform developed to meet the needs of camping enthusiasts and nature lovers. Users can learn the details of camping areas, get route suggestions, and plan their camping experiences. This project, which offers camping area information, also aims to meet all the needs of campers with its road maps and services.
 
-Technologies Used:
+<h2>Technologies Used:</h2>
 
 TypeScript: It was preferred to increase the reliability of the project and ensure the readability and sustainability of the code.
 
 Next.js: It ensures that the project is SEO-friendly and fast with server-side rendering (SSR) and static site generation (SSG) features.
 
 Tailwind CSS: It was used to create a fast and modern user interface.
-
-<h2> The following technologies were used in the frontend development phase of my site: </h2>
-
-- TypeScript & Next.Js
-- Tailwind Css
 
 <h2>GIF</h2>
 
